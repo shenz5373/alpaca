@@ -1,0 +1,1 @@
+{'Version': '1.00', 'HighestExecPrice': 5.0, 'LowestExecPrice': 0.1, 'PriceStep': 0.01, 'ProfitStep': 0.05, 'SmallPriceOpti': 0, 'OptiState': -1, 'MainContract': 'STOCK', 'LastBuyPrice': 2.339999999999999, 'AlarmHighPrice': 3.0, 'AlarmLowPrice': 2.0}
